@@ -1,0 +1,11 @@
+#sidebar {
+	background: grey;
+	opacity: 0.5;
+	font-family: Avantgarde, Arial;
+	text-decoration: none;
+	width: 200px;
+}
+
+a {
+	text-decoration: none;
+}

@@ -1,0 +1,36 @@
+@font-face {
+	font-family: LeagueGothicCyrillic;
+	src: url('type/LeagueGothicCyrillic.otf')
+}
+
+body {
+	background-image: url("img/12.png");
+	background-size: cover;
+}
+
+#header {
+	background: pink;
+	font-family: LeagueGothicCyrillic, Arial;
+	font-size: 48px;
+	text-align: center;
+	border-radius: 15px;
+}
+
+#subheader {
+	background: pink;
+	font-family: LeagueGothicCyrillic, Arial;
+	text-align: right;
+	width: 180px;
+	height: 45px;
+	position: fixed;
+	right: 8px;
+	border-radius: 15px;
+}
+
+#content {
+	background-image: url("img/12.png");
+	color: white;
+	background-size: cover;
+}
+
+
